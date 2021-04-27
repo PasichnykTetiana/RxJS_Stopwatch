@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RxJS_Stopwatch/static/css/main.a29ef8c8.chunk.css",
+    "main.js": "/RxJS_Stopwatch/static/js/main.f1fd3de7.chunk.js",
+    "main.js.map": "/RxJS_Stopwatch/static/js/main.f1fd3de7.chunk.js.map",
+    "runtime-main.js": "/RxJS_Stopwatch/static/js/runtime-main.0b23f5f1.js",
+    "runtime-main.js.map": "/RxJS_Stopwatch/static/js/runtime-main.0b23f5f1.js.map",
+    "static/js/2.f12606a9.chunk.js": "/RxJS_Stopwatch/static/js/2.f12606a9.chunk.js",
+    "static/js/2.f12606a9.chunk.js.map": "/RxJS_Stopwatch/static/js/2.f12606a9.chunk.js.map",
+    "index.html": "/RxJS_Stopwatch/index.html",
+    "static/css/main.a29ef8c8.chunk.css.map": "/RxJS_Stopwatch/static/css/main.a29ef8c8.chunk.css.map",
+    "static/js/2.f12606a9.chunk.js.LICENSE.txt": "/RxJS_Stopwatch/static/js/2.f12606a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b23f5f1.js",
+    "static/js/2.f12606a9.chunk.js",
+    "static/css/main.a29ef8c8.chunk.css",
+    "static/js/main.f1fd3de7.chunk.js"
+  ]
+}
